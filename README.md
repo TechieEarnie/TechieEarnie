@@ -1,4 +1,4 @@
-<h1>Hi, I'm Earnie, an <a href="https://linkedin.com/in/iamearniewilliams">IT Professional</a>☺</h1>
+<h1>Hi, I'm Earnie, an <a href="https://linkedin.com/in/iamearniewilliams"> Cybersecurity Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
