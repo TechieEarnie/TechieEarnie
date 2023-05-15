@@ -9,6 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/TechyEarnie/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TechyEarnie/azure-network-protocols)
+- <b>Cybersecurity Projects</b>
+  - [AZURE CLOUD Honey Net SOC](https://github.com/TechieEarnie/AzureCloud-SOC-Honeynet)
 
 <h2>🤳Connect with me:</h2>
 
