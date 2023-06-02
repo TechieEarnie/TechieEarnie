@@ -9,8 +9,20 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/TechyEarnie/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/TechyEarnie/azure-network-protocols)
-- <b>Cybersecurity Projects</b>
-  - [AZURE CLOUD Honey Net SOC](https://github.com/TechieEarnie/AzureCloud-SOC-Honeynet)
+
+
+
+<h2>👮🏾‍♂️ Cybersecurity Projects:</h2>
+
+- <b>Azure Cloud Platform</b>
+  - [Azure Cloud Honey Net SOC](https://github.com/TechieEarnie/AzureCloud-SOC-Honeynet)
+
+
+
+<h2>🤳Data Analytics and SQL Projects</h2>
+
+- <b> SQL Scooby Doo Store Database<b>
+  - [Store Database with Scooby Doo Memorabilia items](https://github.com/TechieEarnie/SQL)
 
 <h2>🤳Connect with me:</h2>
 
